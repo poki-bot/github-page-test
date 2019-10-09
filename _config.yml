@@ -1,0 +1,67 @@
+remote_theme: y7kim/agency-jekyll-theme
+url: https://poki-bot.github.io
+baseurl: ""
+
+
+# Site settings
+title: Poki Chatbot
+email: poki.groupbot@gmail.com
+description: "Poki a chatbot for your groupchat"
+
+
+# Team names, titles and social links
+people:
+- name: Soomin Kim
+  pic: 1
+  position: Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Jinsu Eun
+  pic: 2
+  position: Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Changhoon Oh
+  pic: 3
+  position: Researcher
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
